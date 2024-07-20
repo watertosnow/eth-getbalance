@@ -1,0 +1,15 @@
+[app]
+# 要查询地址文件，每行一个地址
+filename = "addresses.txt"
+# 线程数
+num = 1
+
+[client]
+uri=["https://lb.nodies.app/v1/93ecd602735e4f1092904924e52391b8", "https://lb.nodies.app/v1/93ecd602735e4f1092904924e52391b8",  "https://rpc.ankr.com/eth", "https://ethereum.blockpi.network/v1/rpc/public", "https://eth-mainnet.public.blastapi.io"]
+key=[
+    "",
+    "",
+    "",
+    "",
+    ""
+]
